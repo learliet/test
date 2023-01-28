@@ -5,6 +5,6 @@
 
 <br><br><br>
 
-* ### Check out the [Documentation]()
+* ### Check out the [Documentation](https://github.com/learliet/test/wiki)
 * ### Ask for help on the [Discord Server]()
 
