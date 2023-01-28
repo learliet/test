@@ -13,5 +13,6 @@ Here are some of the key features included in the framework:
 - Automatic Event Registration and Deregistration
 
 <br><br>
-Check out the [Documentation]().
+
+### Check out the [Documentation]().
 
