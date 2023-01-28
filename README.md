@@ -5,5 +5,13 @@
 
 <br><br><br><br>
 
-- Check out the Wiki
+# Features
+Here are some of the key features included in the framework:
+- Nested State Machines
+- Reusable States
+- State-specific Event Handlers
+- Automatic Event Registration and Deregistration
+
+<br><br>
+Check out the [Documentation]().
 
