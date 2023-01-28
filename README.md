@@ -1,4 +1,4 @@
-![StateControlnew](https://user-images.githubusercontent.com/67430834/215279037-12290399-bbe5-46a4-b221-8978e643ff94.png)
+![statecontrol logo updated](https://user-images.githubusercontent.com/67430834/215286738-98adc656-036b-4a82-b31a-4bfb6f3f5e6d.png)
 
 <h1 align="center">StateControl 1.0.0</h1>
 <p align="center">A state machine framework for Minecraft plugin developers.</p>
