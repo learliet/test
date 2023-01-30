@@ -3,6 +3,13 @@
 <h1 align="center">StateControl 1.0.0</h1>
 <p align="center">A state machine framework for Minecraft plugin developers.</p>
 
+<br>
+
+<h3 align="center">Features</h1>
+<p align="center">Nested State Machines</p>
+<p align="center">State-specific Event Handling</p>
+<p align="center">Automatic Event Management</p>
+
 <br><br><br>
 
 * ### Check out the [Documentation](https://github.com/learliet/test/wiki)
