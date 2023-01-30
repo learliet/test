@@ -13,6 +13,6 @@
 
 <br><br><br>
 
-* ### Check out the [Documentation](https://github.com/learliet/test/wiki/Guide)
+* ### Check out the [Beginner's Guide](https://github.com/learliet/test/wiki/Guide)
 * ### Ask for help on the [Discord Server]()
 
