@@ -5,10 +5,11 @@
 
 <br>
 
-<h3 align="center">Features</h1>
+<h3 align="center">Features</h3>
 <p align="center">Nested State Machines</p>
 <p align="center">State-specific Event Handling</p>
 <p align="center">Automatic Event Management</p>
+<p align="center">Reusable States</p>
 
 <br><br><br>
 
